@@ -7,13 +7,13 @@ This project provides a way to keep track of players and matches in a swiss styl
 
 REQUIREMENTS
 
-Python 2.7
+- Python 2.7
 
-Bleach
+- Bleach
 
-Psycopg2
+- Psycopg2
 
-PostgreSQL
+- PostgreSQL
 
 INSTALLATION AND DATABASE SET-UP
 
