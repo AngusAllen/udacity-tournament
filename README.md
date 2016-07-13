@@ -7,7 +7,7 @@ This is a simple database project for Udacity's IPND course "introduction to bac
 
 ## Requirements
 
-This software has been designed to be used in the VM enironment provided by Udacity using Oracle's VM Virtual Box and Vagrant.  This environment You can fork/close this by accessing this [GitHub repo](https://github.com/udacity/fullstack-nanodegree-vm).
+This software has been designed to be used in the VM enironment provided by Udacity using Oracle's VM Virtual Box and Vagrant.  You can fork/clone this by accessing this [GitHub repo](https://github.com/udacity/fullstack-nanodegree-vm).
 
 If you are not using the above environment, the requirements are as follows:
 
