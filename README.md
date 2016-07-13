@@ -5,6 +5,13 @@ Project assignment for Udacity IPND program, stage 5 (back-end developer)
 
 This is a simple database project for Udacity's IPND course "introduction to back-end prgramming".  The project requires the creation of a PostgreSQL database to manage a Swiss style gaming tournament.
 
+##Documents
+
+* *tournament.sql*
+* *tournament.py*
+* *tournament_test.py*
+* *README.md*
+
 ## Requirements
 
 This software has been designed to be used in the VM enironment provided by Udacity using Oracle's VM Virtual Box and Vagrant.  You can fork/clone this by accessing this [GitHub repo](https://github.com/udacity/fullstack-nanodegree-vm).
@@ -71,6 +78,10 @@ Returns a list containing pairs of players for the next round. The function assu
 * Number of players (n) entering the tournament must be even and n to a power 
 * Does not support multiple tournaments
 * Does not support draws between players
+
+##Testing
+
+The file *tournament_test.py* is only used to test whether the python functions meet Udacity's project requirements.
 
 ##Licence
 
