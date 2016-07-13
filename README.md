@@ -18,21 +18,19 @@ If you are not using the above environment, the requirements are as follows:
 
 ##Usage
 
-**1.  Download files**
-
-**2. Create database**
+**1. Create database**
 
 Log into your PostgreSQL console.  Executing the following command will create the database, connect to it and create the tables schema:
 
 `\i tournament.sql`
 
-**3.  Import functions**
+**2.  Import functions**
 
 To run the tournament you need to call the tournament functions.  Accordingly, import the file entitled tournament.py into your python script.
 
 `import tournament.py`
 
-**4.  Use the functions**
+**3.  Use the functions**
 
 The following functions are included in tournament.py for you to use in running the tournament.
 
