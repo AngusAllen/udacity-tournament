@@ -56,7 +56,7 @@ Adds a player to the tournament database. The database assigns a unique serial i
 
 **playerStandings()**
 
-Returns a list of the players and their win records, sorted by wins. Therefore, the first entry is the player in first place or a player tied for first place if there is a tie.
+Returns a list of the players and their win records, sorted by wins.
 
 **reportMatch(winner,loser)**
 
