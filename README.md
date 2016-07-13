@@ -60,7 +60,7 @@ Returns a list of the players and their win records, sorted by wins.
 
 **reportMatch(winner,loser)**
 
-Creates a new match record, recording the winner and the loser of the match. The arguments for the winner and the loser must be the id numbers for each player.
+Creates a new match record, recording the winner and the loser of each match. The arguments for the winner and the loser must be the id numbers for each player.
 
 **swissPairings()**
 
