@@ -40,11 +40,11 @@ Connects to the PostgreSQL database and returns a database connection.
 
 **deleteMatches()**
 
-Remove all match records from the database.
+Removes all match records from the database.
 
 **deletePlayers()**
 
-Remove all player records from the database.
+Removes all player records from the database.
 
 **countPlayers()**
 
