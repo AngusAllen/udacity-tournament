@@ -1,7 +1,7 @@
 # udacity-tournament
 Project assignment for Udacity IPND program, stage 5 (back-end developer)
 
-INTRODUCTION
+**INTRODUCTION**
 
 This project provides a way to keep track of players and matches in a swiss style tournament with an even number of players and without any player requiring a bye.  Here, any given match can result in a win or a loss.  The pairing function ensures that in the next round a player is paired with a player of a similar level.  All information is stored in a Postgres database.  Since there are several ways in which user input can make its way directly into the database, all inputs are checked to ensure they are free from bugs before being used.
 
